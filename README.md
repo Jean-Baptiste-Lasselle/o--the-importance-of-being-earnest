@@ -5,7 +5,7 @@ _A repo to share thoughts wih the world._
 
 # How it started
 
-**The 29th of MArch, 2020 5:00 am**.
+**The 29th of March, 2020 5:00 am**.
 
 I am waking up, I have beaksfast, I feel like working :
 
@@ -13,13 +13,12 @@ Currently working on subjects and ideas are exploding all over the place in my h
 
 I feel rested and all energy full on the morning, it feels good.
 
-So end of beakfast, I sit at desk startup debian, go to yotube to play anything a background while working.
+So end of breakfast, I sit at desk startup debian, go to youtube to play anything while working.
 
 I see a video suggestion about `terraform` :
 
-
-I listen to it 2 minutes, and suddenly I can't help wirting a comment that 20 miutes later becomes the
-deepest thing I have put in words abotu Infrastructure as code, until today :
+I listen to it 2 minutes, and suddenly I can't help writing a comment that 20 minutes later became the
+deepest thing I have put in words about Infrastructure as code, until today :
 
 
 
@@ -46,4 +45,6 @@ Something said with other words : the robot is a software, and there fore it has
 
 
 
-This pattern is infrastructure as code, so yes, command line changing state is against infratstructure adressed as code, but now that it is explained, there you have the why.
+This pattern is called "infrastructure as code", so yes, command line changing state is against infratstructure adressed as code, but now that it is explained, there you have the why.
+
+And because I want my words to convey my thoughts, I don't say "Infrastructure As Code", but "Infrastructure Adressed As Code". IAAC. not IaC. See https://github.com/pegasus-io/ever-better-iaac
