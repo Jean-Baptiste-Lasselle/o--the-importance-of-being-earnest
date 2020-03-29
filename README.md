@@ -28,7 +28,7 @@ deepest thing I have put in words abotu Infrastructure as code, until today :
 
 https://www.youtube.com/watch?v=R2UDlNGJHI8
 
-It's really unfair, because video is from 2016, and its now 2020, but I can't help mentoning :
+It's really unfair, because video is from 2016, and its now 2020, but I can't help mentioning :
 I do agree about why you should be against command line update the terraform state.
 
 but no, you should not yell at them, what should happen, is that you, should provide means to make that (command line update the terraform state) useless, and pointless, modify your high level factory, so that those you don't want to be allowed to command line modify the terraform state, can't :
