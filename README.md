@@ -31,7 +31,7 @@ https://www.youtube.com/watch?v=R2UDlNGJHI8
 It's really unfair, because video is from 2016, and its now 2020, but I can't help mentioning :
 I do agree about why you should be against command line update the terraform state.
 
-but no, you should not yell at them, what should happen, is that you, should provide means to make that (command line update the terraform state) useless, and pointless, modify your high level factory, so that those you don't want to be allowed to command line modify the terraform state, can't :
+but no, you should not yell at them, what should happen, is that you, should provide means to make that (command line update the terraform state) useless, and pointless. So you modify your high level factory, so that those you don't want to be allowed to command line modify the terraform state, can't :
 * `.gitignore` terraform state
 * reject any commit / pull /merge request modifying the `.gitignore`. especially important : the commits on a feature branch. And cross repository pull request not from feature, to develop, but from feature (branch) to feature.
 * allow only robots to manage terraform state for you : you never commad-line, instead, to do what you want to do, you modify the source code of the robot, and let the robot do the job.
