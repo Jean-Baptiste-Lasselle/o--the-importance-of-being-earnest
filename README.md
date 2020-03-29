@@ -33,7 +33,7 @@ I do agree about why you should be against command line update the terraform sta
 
 but no, you should not yell at them, what should happen, is that you, should provide means to make that useless, and modify your high level factory, so that those you don't want to be allowed to modify the state, can't :
 * `.gitignore` terraform state
-* reject any commit / pull /merge request modifying the `.gitignore`. especially impornt : the commits on a feature branch. And cross repository pull request not from feature, to develop, but from feature (branch) to feature.
+* reject any commit / pull /merge request modifying the `.gitignore`. especially important : the commits on a feature branch. And cross repository pull request not from feature, to develop, but from feature (branch) to feature.
 * allow only robots to manage terraform state for you : you never commad-line, instead, to do what you want to do, you modify the source code of the robot, and let the robot do the job.
 
 This pattern is infrastructure as code, so yes, command line changing state is against infratstructure adressed as code, but now that it is explained, there you have the why :
